@@ -2,9 +2,6 @@
 
 ### SBT Solution
 
-```markdown
-Syntax highlighted code block
-
 # Digital Service Solution
 ## Blockchain Solution
 ### SBT - Solution
